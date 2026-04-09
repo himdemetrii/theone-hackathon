@@ -22,7 +22,7 @@ def main():
         # Show a motivational message
         print(get_motivation())
 
-        # optional mini challenge
+        # Optional mini challenge
         print("Mini Challenge:", get_challenge())
         print("-" * 40)
 
