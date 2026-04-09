@@ -3,7 +3,7 @@
 from responses import get_motivation, get_daily_quotes, get_challenge
 
 def main():
-    print("Welcome to MoodBot! 🌈 Type 'quit' to exit.\n")
+    print("Welcome to MoodBot! 🌈 Please type 'quit' to exit.\n")
 
     # This will show dialy quotes from the jump
     print("Your Daily Boosts:")
