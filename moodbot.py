@@ -19,7 +19,7 @@ def main():
             print("Goodbye! Stay positive! 🌟")
             break
 
-        # show a motivational message
+        # Show a motivational message
         print(get_motivation())
 
         # optional mini challenge
