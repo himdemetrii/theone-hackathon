@@ -11,7 +11,7 @@ def main():
         print(f"- {quote}")
     print("\n")
 
-    # the main loop for communicating
+    # The main loop for communicating
     while True:
         user_input = input("How are you feeling? ").lower()
 
