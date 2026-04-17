@@ -7,10 +7,10 @@ This project is coded primarily in Python. This project is not done yet, we will
 
 Tech Stack : Python, HTML/CSS (frontend coming soon)
 
-Run this program in Terminal : pip install -r requirements.txt
+Run this program in Terminal : First: pip install -r requirements.txt
 
-git clone git@github.com:himdemetrii/theone-hackathon.git
+Then: git clone git@github.com:himdemetrii/theone-hackathon.git
 
-cd theone-hackathon
+Then: cd theone-hackathon
 
-python moodbot.py
+Last: python moodbot.py
