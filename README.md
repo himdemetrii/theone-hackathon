@@ -14,3 +14,5 @@ Then: git clone git@github.com:himdemetrii/theone-hackathon.git
 Then: cd theone-hackathon
 
 Last: python moodbot.py
+
+This work in progress will soon be a functional website!
