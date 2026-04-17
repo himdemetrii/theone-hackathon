@@ -1,6 +1,5 @@
-# Mood Bot Python 
-Moodbot is a project that I built  with the help of a friend. 
-This project is extremley simple, the goal was to compete in my first ever Hackaton and teach Python to a friend.
+# MoodBot Python 
+A beginner-friendly Python app that takes your current mood and returns a motivational quote + a daily goal to keep you moving forward.
 
 You enter any emotion into to Moodbot, it returns a motivational quote and a daily goal.
 
